@@ -9,7 +9,7 @@ Age	Measles
 8	Does not have measles
 	Does not have measles
 2	Does not have measles
-6	Does not have measles
+6	
 7	Does not have measles
 3	Does not have measles
 5	Does not have measles
@@ -18,7 +18,7 @@ Age	Measles
 	Does not have measles
 3 months	Does not have measles
 3	Does not have measles
-6	Does not have measles
+6	
 2	Does not have measles
 6	Does not have measles
 	Does not have measles
@@ -30,7 +30,7 @@ Age	Measles
 1	Does not have measles
 9	Does not have measles
 4	Does not have measles
-10	Does not have measles
+10	
 7	Does not have measles
 7	Does not have measles
 	Has measles
@@ -47,7 +47,7 @@ Age	Measles
 5	Does not have measles
 2	Does not have measles
 8	Does not have measles
-4	Does not have measles
+4	
 5	Does not have measles
 5	Does not have measles
 	Does not have measles
@@ -99,3 +99,4 @@ Age	Measles
 2	Does not have measles
 6	Does not have measles
 11	Has measles
+
