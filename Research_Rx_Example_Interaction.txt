@@ -1,113 +1,113 @@
 symptoms	vaccine	season	age
-2	Experimental Vaccine	Rainy	64
+2	Vaccine	Rainy	64
 7	Placebo	Rainy	49
 4	Placebo	Rainy	56
-5	Experimental Vaccine	Dry	38
+5	Vaccine	Dry	38
 0	Placebo	Dry	61
-0	Experimental Vaccine	Rainy	39
+0	Vaccine	Rainy	39
 4	Placebo	Rainy	50
 7	Placebo	Rainy	57
 3	Placebo	Dry	25
-2	Experimental Vaccine	Rainy	54
-1	Experimental Vaccine	Dry	55
+2	Vaccine	Rainy	54
+1	Vaccine	Dry	55
 9	Placebo	Dry	35
-0	Experimental Vaccine	Rainy	29
+0	Vaccine	Rainy	29
 1	Placebo	Dry	79
 5	Placebo	Dry	60
-0	Experimental Vaccine	Dry	36
-3	Experimental Vaccine	Rainy	47
+0	Vaccine	Dry	36
+3	Vaccine	Rainy	47
 1	Placebo	Dry	61
 5	Placebo	Rainy	44
-7	Experimental Vaccine	Rainy	48
-7	Experimental Vaccine	Rainy	62
+7	Vaccine	Rainy	48
+7	Vaccine	Rainy	62
 1	Placebo	Dry	43
-2	Experimental Vaccine	Rainy	45
+2	Vaccine	Rainy	45
 2	Placebo	Rainy	57
 1	Placebo	Dry	61
-2	Experimental Vaccine	Dry	66
+2	Vaccine	Dry	66
 8	Placebo	Rainy	71
-1	Experimental Vaccine	Dry	67
-1	Experimental Vaccine	Dry	63
+1	Vaccine	Dry	67
+1	Vaccine	Dry	63
 7	Placebo	Dry	51
-7	Experimental Vaccine	Rainy	44
+7	Vaccine	Rainy	44
 9	Placebo	Rainy	49
-0	Experimental Vaccine	Dry	51
-4	Experimental Vaccine	Dry	50
-1	Experimental Vaccine	Dry	32
+0	Vaccine	Dry	51
+4	Vaccine	Dry	50
+1	Vaccine	Dry	32
 2	Placebo	Dry	57
-4	Experimental Vaccine	Dry	45
-2	Experimental Vaccine	Rainy	51
+4	Vaccine	Dry	45
+2	Vaccine	Rainy	51
 1	Placebo	Rainy	50
-6	Experimental Vaccine	Dry	48
-0	Experimental Vaccine	Dry	40
-5	Experimental Vaccine	Rainy	40
+6	Vaccine	Dry	48
+0	Vaccine	Dry	40
+5	Vaccine	Rainy	40
 2	Placebo	Dry	66
-5	Experimental Vaccine	Rainy	35
+5	Vaccine	Rainy	35
 5	Placebo	Rainy	53
-4	Experimental Vaccine	Rainy	63
-4	Experimental Vaccine	Dry	42
+4	Vaccine	Rainy	63
+4	Vaccine	Dry	42
 1	Placebo	Rainy	49
-10	Experimental Vaccine	Rainy	57
+10	Vaccine	Rainy	57
 7	Placebo	Rainy	62
-2	Experimental Vaccine	Rainy	34
-3	Experimental Vaccine	Rainy	63
+2	Vaccine	Rainy	34
+3	Vaccine	Rainy	63
 3	Placebo	Dry	54
 2	Placebo	Rainy	61
 3	Placebo	Rainy	54
-2	Experimental Vaccine	Rainy	41
+2	Vaccine	Rainy	41
 8	Placebo	Dry	47
 8	Placebo	Dry	38
 2	Placebo	Rainy	45
-2	Experimental Vaccine	Rainy	45
-3	Experimental Vaccine	Dry	51
+2	Vaccine	Rainy	45
+3	Vaccine	Dry	51
 4	Placebo	Rainy	33
 7	Placebo	Rainy	55
-7	Experimental Vaccine	Rainy	67
-2	Experimental Vaccine	Dry	30
+7	Vaccine	Rainy	67
+2	Vaccine	Dry	30
 3	Placebo	Rainy	45
-5	Experimental Vaccine	Rainy	53
-1	Experimental Vaccine	Rainy	49
+5	Vaccine	Rainy	53
+1	Vaccine	Rainy	49
 2	Placebo	Dry	48
-4	Experimental Vaccine	Rainy	49
+4	Vaccine	Rainy	49
 6	Placebo	Rainy	37
-1	Experimental Vaccine	Dry	32
-0	Experimental Vaccine	Dry	19
-4	Experimental Vaccine	Dry	25
-1	Experimental Vaccine	Dry	47
-9	Experimental Vaccine	Rainy	63
+1	Vaccine	Dry	32
+0	Vaccine	Dry	19
+4	Vaccine	Dry	25
+1	Vaccine	Dry	47
+9	Vaccine	Rainy	63
 6	Placebo	Rainy	36
-0	Experimental Vaccine	Dry	55
-4	Experimental Vaccine	Dry	46
-4	Experimental Vaccine	Dry	35
-3	Experimental Vaccine	Dry	36
+0	Vaccine	Dry	55
+4	Vaccine	Dry	46
+4	Vaccine	Dry	35
+3	Vaccine	Dry	36
 5	Placebo	Dry	52
 0	Placebo	Dry	47
 1	Placebo	Dry	52
 1	Placebo	Dry	46
 0	Placebo	Dry	37
-1	Experimental Vaccine	Dry	42
+1	Vaccine	Dry	42
 1	Placebo	Rainy	50
 7	Placebo	Dry	34
 8	Placebo	Dry	63
 8	Placebo	Rainy	53
 3	Placebo	Dry	27
-2	Experimental Vaccine	Dry	70
-1	Experimental Vaccine	Dry	46
+2	Vaccine	Dry	70
+1	Vaccine	Dry	46
 6	Placebo	Rainy	25
-0	Experimental Vaccine	Dry	62
-3	Experimental Vaccine	Dry	62
+0	Vaccine	Dry	62
+3	Vaccine	Dry	62
 1	Placebo	Dry	37
 4	Placebo	Dry	39
 3	Placebo	Dry	58
-4	Experimental Vaccine	Dry	53
+4	Vaccine	Dry	53
 9	Placebo	Rainy	42
-6	Experimental Vaccine	Rainy	61
-5	Experimental Vaccine	Rainy	43
-8	Experimental Vaccine	Dry	65
-6	Experimental Vaccine	Dry	56
+6	Vaccine	Rainy	61
+5	Vaccine	Rainy	43
+8	Vaccine	Dry	65
+6	Vaccine	Dry	56
 10	Placebo	Rainy	62
-5	Experimental Vaccine	Dry	39
-2	Experimental Vaccine	Dry	43
+5	Vaccine	Dry	39
+2	Vaccine	Dry	43
 7	Placebo	Rainy	63
 1	Placebo	Rainy	49
 5	Placebo	Rainy	35
@@ -116,36 +116,36 @@ symptoms	vaccine	season	age
 5	Placebo	Rainy	64
 6	Placebo	Dry	47
 7	Placebo	Dry	34
-7	Experimental Vaccine	Rainy	52
+7	Vaccine	Rainy	52
 8	Placebo	Rainy	50
 0	Placebo	Dry	46
-2	Experimental Vaccine	Rainy	37
+2	Vaccine	Rainy	37
 2	Placebo	Dry	58
-2	Experimental Vaccine	Rainy	51
+2	Vaccine	Rainy	51
 2	Placebo	Dry	51
 4	Placebo	Dry	36
-7	Experimental Vaccine	Rainy	56
+7	Vaccine	Rainy	56
 0	Placebo	Dry	31
 4	Placebo	Rainy	43
-4	Experimental Vaccine	Rainy	40
-1	Experimental Vaccine	Rainy	39
-6	Experimental Vaccine	Rainy	65
+4	Vaccine	Rainy	40
+1	Vaccine	Rainy	39
+6	Vaccine	Rainy	65
 7	Placebo	Dry	53
 1	Placebo	Rainy	33
-4	Experimental Vaccine	Rainy	53
+4	Vaccine	Rainy	53
 6	Placebo	Dry	25
 8	Placebo	Rainy	47
 7	Placebo	Rainy	54
-1	Experimental Vaccine	Rainy	25
-0	Experimental Vaccine	Dry	53
+1	Vaccine	Rainy	25
+0	Vaccine	Dry	53
 0	Placebo	Dry	35
-0	Experimental Vaccine	Dry	42
-4	Experimental Vaccine	Rainy	55
+0	Vaccine	Dry	42
+4	Vaccine	Rainy	55
 0	Placebo	Rainy	63
-4	Experimental Vaccine	Dry	56
-8	Experimental Vaccine	Rainy	52
-4	Experimental Vaccine	Dry	69
-3	Experimental Vaccine	Dry	47
+4	Vaccine	Dry	56
+8	Vaccine	Rainy	52
+4	Vaccine	Dry	69
+3	Vaccine	Dry	47
 2	Placebo	Dry	52
 10	Placebo	Rainy	39
-3	Experimental Vaccine	Rainy	61
+3	Vaccine	Rainy	61
